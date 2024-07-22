@@ -37549,7 +37549,7 @@ beO(a){return A.bPe(a)},
 bPe(a){var s=0,r=A.x(t.h),q,p=2,o,n,m,l,k,j,i,h,g
 var $async$beO=A.t(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:p=4
-k=A.eU("http://127.0.0.1:5000/extract_nouns")
+k=A.eU("https://MeisMeisMe.pythonanywhere.com/extract_nouns")
 j=t.N
 i=A.E(["Content-Type","application/json"],j,j)
 s=7
@@ -68842,7 +68842,7 @@ if(q.length===0){q=this.a
 q.to="\uc774\ub984\uc744 \uc785\ub825\ud574\uc8fc\uc138\uc694"
 q.x1=!1}else{s=A.bC("^[a-zA-Z]+$",!0,!1)
 r=this.a
-if(!s.b.test(q)){r.to="\uc62c\ubc14\ub978 \ud615\uc2dd\uc774 \uc544\ub2d9\ub2c8\ub2e4 (only English)"
+if(!s.b.test(q)){r.to="\uc62c\ubc14\ub978 \ud615\uc2dd\uc774 \uc544\ub2d9\ub2c8\ub2e4 (only English, not white space)"
 r.x1=!1}else{r.to="\uc815\ud655\ud55c \uc774\ub984\uc744 \uc785\ub825\ud574\uc57c \ubd88\ud3b8\ud568\uc774 \uc5c6\ub2f5\ub2c8\ub2e4!"
 r.x1=!0}}},
 $S:0}
