@@ -15150,7 +15150,7 @@ i=$.ms
 i=A.c7(i.b.b2(0,"\ub2c9\ub124\uc784"),i.a)
 if(i==null)i="Anonymous"
 s=7
-return A.p(l.B(0,A.D(["title",a,"topic",c,"scale","\ub300\uc790\ubcf4","content",b,"userId",k,"timestamp",new A.ch(j,!1),"nickname",i,"comments",[],"hearts",0,"designedPicture",[],"visitedUser",0,"status","pending","country",$.jx,"city",$.lc],t.N,t.z)),$async$bi2)
+return A.p(l.B(0,A.D(["title",a,"topic",c,"scale","\ub300\uc790\ubcf4","content",b,"userId",k,"timestamp",new A.ch(j,!1),"nickname",i,"comments",[],"hearts",0,"designedPicture",[],"visitedUser",0,"status","pending","country",$.jx,"city",$.lc,"answeringPosts",0],t.N,t.z)),$async$bi2)
 case 7:n=e
 A.cy("Post created successfully")
 i=B.b.gX(n.a.b.a)
